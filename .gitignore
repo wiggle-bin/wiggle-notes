@@ -6,6 +6,7 @@ outputs/*
 !WiggleR/Code/Api/Camera/input/.gitkeep
 !WiggleR/Code/Api/Camera/outputs/.gitkeep 
 .ipynb_checkpoints
+data
 
 # PYTHON
 # Byte-compiled / optimized / DLL files
