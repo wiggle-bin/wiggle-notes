@@ -1,6 +1,6 @@
 # WiggleNotes
 
-Notebooks with examples and research completed with the [WiggleR](https://github.com/wiggle-bin/wiggle-r)—an innovative desktop research unit designed for conducting controlled experiments with worms.
+Notebooks with examples and research completed with the [WiggleBin](https://github.com/wiggle-bin/wiggle-bin)—an innovative desktop research unit designed for conducting controlled experiments with worms.
 
 ## License
 
