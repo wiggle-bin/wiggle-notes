@@ -1,3 +1,4 @@
+.env
 .DS_Store
 NetworkSettings.h
 __pycache__
@@ -7,6 +8,16 @@ outputs/*
 !WiggleR/Code/Api/Camera/outputs/.gitkeep 
 .ipynb_checkpoints
 data
+roboflow.py
+worms_activity/annotations
+videos
+worms_activity/annotations/*
+worms_detected/clusters/*
+worms_activity/extracted_images/*
+data/*
+extracted/
+annotations/
+predictions/
 
 # PYTHON
 # Byte-compiled / optimized / DLL files
